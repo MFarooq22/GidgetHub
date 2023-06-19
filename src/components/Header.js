@@ -8,6 +8,7 @@ const Header = () => {
     <MainHeader>
       <NavLink to="/">
         <img src="./images/logo.png" alt="my logo img" />
+        {/* <h2>Gadget_Hub</h2> */}
       </NavLink>
       <Nav />
     </MainHeader>
